@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a233ee435372ec24e94c20f6fc961212, type: 3}
+  m_Name: Momo
+  m_EditorClassIdentifier: 
+  Name: Momo
+  Sprite: {fileID: 21300000, guid: d04f8f97cb72e1c49a448d7616d8f2a5, type: 3}
+  SilhouetteSprite: {fileID: 21300000, guid: 76b49db71c2ab584a8aeb3414a1d2a56, type: 3}
+  Description: Not a bug you want to squish!
+  Quality: 0
+  BaseScore: 1000
+  BasePrice: 50
+  IsVChiBan: 0
